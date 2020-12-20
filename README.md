@@ -1,3 +1,3 @@
-# Pathfinders Call for Essays
+# Pathfinders Essays
 
-This repository holds the accepted essays for the Call for Essays event hosted by Pathfinders. Find more information [here](http://pathfinders.mit.edu/).
+This repository holds the accepted essays from Pathfinders. Find more information on [https://pathfinders.mit.edu](https://pathfinders.mit.edu/).
