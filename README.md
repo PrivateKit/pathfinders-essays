@@ -1,3 +1,1 @@
-# Pathfinders Essays
-
-This repository holds the accepted essays from Pathfinders. Find more information on [https://pathfinders.mit.edu](https://pathfinders.mit.edu/).
+This repository has moved to [https://github.com/Path-Check/pathfinders](https://github.com/Path-Check/pathfinders).
